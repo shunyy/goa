@@ -1,4 +1,4 @@
-module goa.design/goa/v3
+module github.com/shunyy/goa
 
 go 1.14
 
